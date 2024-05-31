@@ -16,6 +16,7 @@ Education Background
 **Sichuan University, Sichuan, China**
 * School of Materials Science and Engineering  Sep.2020-Jun.2022
 * School of Literature and Journalism（Bachelor of Arts) Sep.2022-Jun.2025(expected)
+
 **The Hong Kong PolyTechnic University, Hong Kong**
 * Department of Applied Sociology（Exchange） Jul.2023 - Aug.2023
 **Communication University of China, Beijing, China**
