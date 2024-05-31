@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Page of Ray"
 author_profile: true
 redirect_from: 
   - /about/
@@ -137,15 +137,16 @@ Research Skills
 * N.vivo12
 * Atlas.ai
 
+
 **For more info**
 
 Please contact:
 
 **Email**
 
-  wangluvi@stu.scu.edu.cn
+  [wangluvi@stu.scu.edu.cn](wangluvi@stu.scu.edu.cn)
   
-  13029161538@163.com
+  [13029161538@163.com](wangluvi@stu.scu.edu.cn)
   
 **Tel**
 
