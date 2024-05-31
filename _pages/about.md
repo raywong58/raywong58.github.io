@@ -7,47 +7,123 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student at the School of Literature and Journalism (https://lj.scu.edu.cn), Sichuan University(https://www.scu.edu.cn). My research interests include health communication, media psychology, media sociology, and new media communication.
+I'm a senior student at [the School of Literature and Journalism](https://lj.scu.edu.cn), [Sichuan University](https://www.scu.edu.cn). My research interests include health communication, media psychology, media sociology, and new media communication.
 
-You can find my CV here: Zi-rui Wang’s Curriculum Vitae(../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zi-rui Wang’s Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:13029161538@163.com) / [Github](https://github.com/QiuDi233) 
-
-A data-driven personal website
+Education Background
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Sichuan University, Sichuan, China**
+* School of Materials Science and Engineering  Sep.2020-Jun.2022
+* School of Literature and Journalism（Bachelor of Arts) Sep.2022-Jun.2025(expected)
+**The Hong Kong PolyTechnic University, Hong Kong**
+* Department of Applied Sociology（Exchange） Jul.2023 - Aug.2023
+**Communication University of China, Beijing, China**
+* Computational Communication（minor） Feb.2024 - Jun.2024
+**Saint Petersburg State University, Saint Petersburg, Russia**
+* Department of Sociology（Exchange） Oct.2024 - Jan.2025(expected)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Professional Foundation（GPA：3.92/4）
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Journalism and Communication Studies Courses**
+* Introduction to Communication Studies (97)
+* Introduction to Journalism (97)
+* Cyber-psychology (94)
+* User Research and Data Analysis (93)
+* Planning for Web and New Media Products (93)
+* Media Ethics and Regulations (98)
+* Introduction to Advertising (94)
+**Mathematics and Science Courses**
+* Probability and Statistics (85)
+* Linear Algebra (85)
+* Fundamentals of Materials Science (93)
+* Physical Chemistry (91)
+* Engineering Mechanics (89)
+* Fundamentals of Electrical Engineering (91)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Publications
+======
+1.王炎龙,黄婧,**王子睿**.新质生产力赋能出版业的质态、要素与体系研究[J].中国编辑,2024,(04):22-28.*(CSSCI)*
+2.**Wang, ZR.**, Yang, XZ., Xu, Y., Guo, ZL. & Zeng, YX.(2024). Rare Roar: A Study on Self-Presentation and Social Support of Rare Disease Vloggers *(2024IAMCR-Health Communication)*
+3.**Wang, ZR.**& Liu, Y.(2024). Digital Resurrection Helps Prolonged Grief Disorder Patients: Human-Computer Interaction and Grief Expression *(2024AEJMC-Communication Technology Division)*
+4.Sun, LJ., **Wang, ZR.**, Jin, ZT.& Peng LH.(2024). Optimization of carbon sequestration decision-making based on greedy algorithm and forest valuation decision-making models *(2024ICIPCA [EI])*   
+5.Chen, G., **Wang, ZR.**& Wang YL.(2023). Illness Narrative and Health Action:A Study on Mediated Writing of COVID-19 Recovery Diaries *(2023IAMCR-Health Communication）*   
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Research Experience
+======
+###Participation in Faculty Research Projects###
+* 2024.01-Present
+  **Theoretical Framework, Path, and Evaluation Research on the Construction of Public Welfare Communication Strength**
+    * National Social Science Foundation Project
+    * Principal Investigator: Wang Yanlong
+* 2024.02-Present
+  **Mechanism and Precision Early Warning Research on the Spatiotemporal Evolution of Post-Disaster PTSD in Adolescents**
+    * Ministry of Education Humanities and Social Sciences Research Youth Fund Project
+    * Principal Investigator: Shi Wei
+* 2023.08-2024.04
+  **Market Development Report for Ultra-High-Definition Digital Publications**
+    * Horizontal Key Project
+    * Principal Investigator: Zeng Yuanxiang
+* 2022.08-Present
+  **Research on Public Opinion Risk Governance of Public Health Crisis Communication in the Era of Intelligent Media**
+    * Ministry of Education Humanities and Social Sciences Research Planning Project
+    * Principal Investigator: Liu Yijun
 
-**Markdown generator**
+###Participation/Leadership in Student Research Projects###
+* 2024.04-Present
+  **Exploration and Platform Construction of Health Publishing Knowledge Service Model**
+    * Wenxuan Qingyun Scientific Research and Talent Training Plan (Horizontal Project, 8,000 RMB)
+    * Project Leader
+* 2023.10-2024.06
+  **"Rare Roar": Research on the Self-Presentation and Social Integration of Rare Disease Bloggers on Short Videos**
+    * National College Innovation Training Program
+    * **Project Leader
+* 2022.10-2023.05
+  **"Ingenuity and Craftsmanship": Research on the Red Spirit and Innovative Communication Paths of Industrial Heritage**
+    * Provincial Challenge Cup Academic and Technological Project
+    * **Project Leader**
+* 2022.12-2023.06
+  **Research on the Path of Integrating Ideological and Political Education into the Classroom by Student Teaching Assistants**
+    * Sichuan University Youth Research Project
+    * Main Researcher
+* 2022.11-2023.08
+  **Compilation and Dissemination of Literature on Major Disasters in Sichuan Dynasty**
+    * Provincial College Student Innovation Training Program
+    * Main Researcher
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Awards and Honors
+======
+* 2024.02: Awarded the "Self-Reliance - Zhi Dong" Scholarship
+* 2023.12: Awarded the Third Prize of the APMCM National Competition
+* 2023.12: Awarded the National Scholarship for Encouragement of Learning
+* 2023.07: Awarded the Third Prize of the "Internet +" College Student Innovation and Entrepreneurship Competition
+* 2023.05: Awarded the Second Prize of the "Challenge Cup" Extracurricular Academic and Technological Competition
+* 2023.05: Awarded the "Outstanding Individual" of the "Students' Visit to Hometown" Program
+* 2022.07: Awarded the Third Prize of the "Internet +" College Student Innovation and Entrepreneurship Competition
+* 2021.05: Awarded the Third Prize of the National College English Ability Contest
+* 2020.12: Awarded the "Excellent Volunteer" of "Kindness·100"
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Research Skills
+======
+**English Proficiency**
+* IELTS: 7.5
+* CET-6: 604
+* National College English Ability Contest: Third Prize
+**Quantitative Research Methods**
+* SPSS
+* Amos
+* Ucinet
+* Citespace
+**Qualitative Research Methods**
+* N.vivo12
+* Atlas.ai
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**for more info**
+Please contact:
+**Email**
+  wangluvi@stu.scu.edu.cn
+  13029161538@163.com
+**Tel**
+  (86)13219019150
+**Communication Eddress**
+  2 Chuanda Rd, Section2, Shuangliu District, Chengdu, Sichuan(610207)
