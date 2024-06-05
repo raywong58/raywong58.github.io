@@ -9,9 +9,9 @@ redirect_from:
 
 I'm a senior student at [the School of Literature and Journalism](https://lj.scu.edu.cn), [Sichuan University](https://www.scu.edu.cn). My research interests include health communication, media psychology, media sociology, and new media communication.
 
-You can find my CV(Chinese version) here: [Zi-rui Wang’s Curriculum Vitae(CN)](../assets/Zirui-Wang's_CV(CN).pdf).
+You can find my CV(Chinese version) here: [Zi-rui Wang’s Curriculum Vitae(CN)](../assets/Zi-rui_Wang's_CV(CN).pdf).
 
-You can find my CV(English version) here: [Zi-rui Wang’s Curriculum Vitae(EN)](../assets/Zirui-Wang's_CV(EN).pdf).
+You can find my CV(English version) here: [Zi-rui Wang’s Curriculum Vitae(EN)](../assets/Zi-rui_Wang's_CV(EN).pdf).
 
 Education Background
 ======
